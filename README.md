@@ -1,6 +1,6 @@
 # Docker-101
 
-creat Dockerfile
+create Dockerfile
 
 docker build
 
